@@ -48,6 +48,7 @@ ALLOWED_HOSTS = []
 ```
 ### 6. Заливаем свой проект по sftp не перезатирая файл `wsgi` и не меняя название папки `config` 
 
+sudo nano /etc/nginx/nginx.conf - смена user
 
 ## Графическая схема шагов установки, что и упакованно в install.sh 
 
